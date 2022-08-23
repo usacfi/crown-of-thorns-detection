@@ -1,6 +1,7 @@
 pip install -q ../dependencies/loguru-lib-ds/loguru-0.5.3-py3-none-any.whl
 pip install -q ../dependencies/bbox-lib-ds
 
+# Forked from freshair1996 inference notebook https://www.kaggle.com/code/freshair1996/leon-v5-infer-2-0/notebook
 
 import numpy as np
 import pandas as pd
